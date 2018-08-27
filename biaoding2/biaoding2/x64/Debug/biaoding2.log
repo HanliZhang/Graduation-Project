@@ -1,0 +1,25 @@
+﻿  源.cpp
+f:\graduation project\biaoding2\biaoding2\源.cpp(131): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\graduation project\biaoding2\biaoding2\源.cpp(132): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.obj : error LNK2019: 无法解析的外部符号 cvCreateImage，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvReleaseImage，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvCloneImage，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvCreateMat，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvReleaseMat，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvGetSize，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvSave，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvLoad，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvCvtColor，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvRemap，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvInitUndistortMap，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvFindCornerSubPix，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvFindChessboardCorners，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvDrawChessboardCorners，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvCalibrateCamera2，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvNamedWindow，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvShowImage，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvDestroyWindow，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvWaitKey，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvCreateCameraCapture，该符号在函数 main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 cvQueryFrame，该符号在函数 main 中被引用
+F:\Graduation Project\biaoding2\x64\Debug\biaoding2.exe : fatal error LNK1120: 21 个无法解析的外部命令

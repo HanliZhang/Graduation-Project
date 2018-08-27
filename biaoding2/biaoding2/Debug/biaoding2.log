@@ -1,0 +1,6 @@
+﻿  源.cpp
+f:\graduation project\biaoding2\biaoding2\源.cpp(107): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\graduation project\biaoding2\biaoding2\源.cpp(108): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\graduation project\biaoding2\biaoding2\源.cpp(187): warning C4101: “pr_vec”: 未引用的局部变量
+  biaoding2.vcxproj -> F:\Graduation Project\biaoding2\Debug\biaoding2.exe
+  biaoding2.vcxproj -> F:\Graduation Project\biaoding2\Debug\biaoding2.pdb (Partial PDB)
